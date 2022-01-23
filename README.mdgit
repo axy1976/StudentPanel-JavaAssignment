@@ -1,0 +1,1 @@
+"# StudentPanel-JavaAssignment"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/axy1976/StudentPanel-JavaAssignment.gitgit push -u origin main
